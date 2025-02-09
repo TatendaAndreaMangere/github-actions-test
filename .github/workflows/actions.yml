@@ -1,0 +1,29 @@
+EXERCISE_8:
+  title: "Exercise 8 ASDT GIT"
+  name: "Tatenda Mangere"
+  Student_Number: 77700
+
+  TASKS:
+    step: 1
+    description: "Create a new remote repository"
+    
+    step: 2
+    description: "Push all commits from Exercise 6a/6b to the remote repository"
+  
+    step: 3
+    description: "Play with the git remote, git fetch, git pushh, git pull and git branch"
+  
+    step: 4
+    description: "Execute fast-forward merge"
+  
+    step: 5
+    description: "Execute a 3-way merge"
+    
+    step: 6
+    description: "Resolve conflict"
+
+    step: 7
+    description: "Upload the repoitory to main"
+
+
+
